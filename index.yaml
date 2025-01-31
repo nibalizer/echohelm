@@ -3,11 +3,11 @@ entries:
   echo:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-01-31T16:14:26.927610899-06:00"
+    created: "2025-01-31T16:23:30.751167288-06:00"
     description: A simple Helm chart for deploying an HTTP echo server
-    digest: e22842a24fe318b32d906912761288442856f402d04119f58187247f8e08546c
+    digest: dd14b2c887d8fb2d3f3adabac664dc6b3175fc2c34c72ffabcbf20ff9facf074
     name: echo
     urls:
     - https://nibalizer.github.io/echohelm/echo-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-31T16:14:26.927093412-06:00"
+generated: "2025-01-31T16:23:30.750492555-06:00"
